@@ -73,6 +73,12 @@
 /audio/se/scratch.ogg https://od.lk/d/MF8yMDU1ODEzMzhf/scratch.ogg
 /audio/bgm/Centre.ogg https://od.lk/d/MF8yMDU1ODI3MzJf/Centre.ogg
 /audio/bgm/Margo1.ogg https://od.lk/d/MF8yMDU1ODEzMzRf/Margo1.ogg
+/audio/bgm/MeteghanFilter.ogg https://od.lk/d/MF8yMDU1ODM2MDZf/MeteghanFilter.ogg
+/audio/bgm/MeteghanSoft.ogg https://od.lk/d/MF8yMDU1ODM2MTRf/MeteghanSoft.ogg
+/audio/bgm/MeteghanDuskFilter.ogg https://od.lk/d/MF8yMDU1ODM2MDVf/MeteghanDuskFilter.ogg
+/audio/bgm/MeteghanGlitch.ogg https://od.lk/d/MF8yMDU1ODM2MTFf/MeteghanGlitch.ogg
+/audio/bgm/MeteghanMatinFilter.ogg https://od.lk/d/MF8yMDU1ODM2MTJf/MeteghanMatinFilter.ogg
+/audio/bgm/MeteghanSoirFilter.ogg https://od.lk/d/MF8yMDU1ODM2MTZf/MeteghanSoirFilter.ogg
 /audio/se/AM01.ogg https://od.lk/d/MF8yMDU1NzkxNzRf/AM01.ogg
 /audio/se/AM02.ogg https://od.lk/d/MF8yMDU1NzkxNzdf/AM02.ogg
 /audio/se/AM03.ogg https://od.lk/d/MF8yMDU1NzkxNzlf/AM03.ogg
@@ -249,4 +255,10 @@
 
 <Version: 1.20>
 /audio/bgm/Centre.ogg https://od.lk/d/MF8yMDU1ODI3MzJf/Centre.ogg
+/audio/bgm/MeteghanFilter.ogg https://od.lk/d/MF8yMDU1ODM2MDZf/MeteghanFilter.ogg
+/audio/bgm/MeteghanSoft.ogg https://od.lk/d/MF8yMDU1ODM2MTRf/MeteghanSoft.ogg
+/audio/bgm/MeteghanDuskFilter.ogg https://od.lk/d/MF8yMDU1ODM2MDVf/MeteghanDuskFilter.ogg
+/audio/bgm/MeteghanGlitch.ogg https://od.lk/d/MF8yMDU1ODM2MTFf/MeteghanGlitch.ogg
+/audio/bgm/MeteghanMatinFilter.ogg https://od.lk/d/MF8yMDU1ODM2MTJf/MeteghanMatinFilter.ogg
+/audio/bgm/MeteghanSoirFilter.ogg https://od.lk/d/MF8yMDU1ODM2MTZf/MeteghanSoirFilter.ogg
 <End of Version>
