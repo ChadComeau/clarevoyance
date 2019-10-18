@@ -71,6 +71,7 @@
 /img/pictures/MAProche.png https://static.wixstatic.com/media/b7be63_228a3a72e37c43e5a64955c67dfde7b9~mv2.png/v1/fill/w_1280,h_720/MAProche.png
 /audio/se/Ice2.ogg https://od.lk/d/MF8yMDU1ODEzMjhf/Ice2.ogg
 /audio/se/scratch.ogg https://od.lk/d/MF8yMDU1ODEzMzhf/scratch.ogg
+/audio/bgm/Centre.ogg https://od.lk/d/MF8yMDU1ODI3MzJf/Centre.ogg
 /audio/bgm/Margo1.ogg https://od.lk/d/MF8yMDU1ODEzMzRf/Margo1.ogg
 /audio/se/AM01.ogg https://od.lk/d/MF8yMDU1NzkxNzRf/AM01.ogg
 /audio/se/AM02.ogg https://od.lk/d/MF8yMDU1NzkxNzdf/AM02.ogg
@@ -244,4 +245,8 @@
 /audio/se/SB000.ogg https://od.lk/d/MF8yMDU1ODAzNTlf/SB000.ogg
 /audio/se/SB028.ogg https://od.lk/d/MF8yMDU1ODAzNzJf/SB028.ogg
 /audio/se/SB049.ogg https://od.lk/d/MF8yMDU1ODAzNjhf/SB049.ogg
+<End of Version>
+
+<Version: 1.11>
+/audio/bgm/Centre.ogg https://od.lk/d/MF8yMDU1ODI3MzJf/Centre.ogg
 <End of Version>
