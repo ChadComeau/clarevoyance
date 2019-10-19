@@ -1,7 +1,7 @@
 <Version: 1.0>
 <End of Version>
 
-<Version: 0.1>
+<Version: 1.1>
 /js/plugins.js https://raw.githubusercontent.com/ChadComeau/clarevoyance/master/plugins.js
 /data/CommonEvents.json https://raw.githubusercontent.com/ChadComeau/clarevoyance/master/CommonEvents.json
 /data/Items.json https://raw.githubusercontent.com/ChadComeau/clarevoyance/master/Items.json
